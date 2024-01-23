@@ -1,5 +1,4 @@
-def calculate (num1, num2=4):
-  res = num1 * num2
-  print(res)
+# Two integer numbers
+num1 = 20
+num2 = 30
 
-calculate(5, 6)
